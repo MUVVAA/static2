@@ -1,0 +1,146 @@
+a{
+    text-decoration: none;
+    color: rgb(51, 5, 126);
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+a:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+.nav1{
+    margin-top: 50px;
+    mix-blend-mode: overlay;
+    margin-left:950px;
+}
+.inner{
+    margin-top: -50px;
+    position: absolute;
+    mix-blend-mode: overlay;
+    display: flex;
+    display: -ms-flexbox;
+    display: -webkit-box;
+}
+.video{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: -500px;
+}
+#p1{
+    position: absolute;
+    margin-top: 780px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 500px;
+}
+h1{
+    position: absolute;
+    margin-top: 650px ;
+    margin-left: 550px;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+        position: absolute;
+        margin-top: 900px ;
+        margin-left: 300px;
+        font-size: 50px;
+        text-align: center;
+
+}
+#d5{
+    margin-top: 1480px;
+    margin-left: 50px;
+    position: absolute;
+}
+#p3{
+    position: absolute;
+    margin-top: 450px;
+    color: black;
+    margin-left: 510px;
+}
+h3{
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 600px;
+    font-size: 40px;
+}
+#i1{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 80px;
+    height: 30px;
+    width: 1500px;
+}
+#i11{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: -50px;
+    height: 30px;
+    width: 1500px;
+}
+#i12{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: -1500px;
+    height: 30px;
+    width: 1500px;
+}
+h4{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 620px;
+    color: black;
+}
+#d7{
+    color: black;
+    font-size: 20px;
+    margin-left: 270px;
+    position: absolute;
+    margin-top: 2300px;
+    display: grid;
+    grid-template-rows: 400px;
+    grid-template-columns: 400px 400px 400px;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+
+#div1{
+    margin-left: 100px;
+    margin-top: 1000px;
+    position: absolute;
+    display: grid;
+    grid-template-rows: 300px;
+    grid-template-columns: 300px 300px 300px 300px 300px;
+    column-gap:50px ;
+    row-gap: 50px;
+    color: rgb(111, 107, 107);
+}
+.c1{
+    background-color: rgb(213, 80, 103);
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+    position: absolute;
+    margin-top: 600px;
+    width: 180px;
+    color: white;
+    font-size: 20px;
+    margin-left: -800px;
+}
+.i1{
+    margin-left: 1450px;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    position: absolute;
+}
+#p7{
+    position: absolute;
+    margin-top: 2650px;
+    text-align: center;
+    height: 50px;
+    width: 1600px;
+    background-color: rgb(206, 80, 101);
+}
