@@ -1,0 +1,54 @@
+a{
+    text-decoration: none;
+    top: 10px;
+}
+h1{
+    text-align: left;
+    margin-left: 200px;
+}
+
+.parent{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.image1{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+.image3{
+    position: relative;
+    top: -180px;
+    left: 1160px;
+    
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: -300px;
+    margin-right: 220px;
+}
+h2{
+    margin-left: 20px;
+}
+h3{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+
+.container1{
+    background-color: rgb(186, 227, 81);
+    color: rgb(186, 227, 81);
+
+}
+.container2{
+    background-color: rgb(206, 22, 105);
+    color: rgb(206, 22, 105);
+}
+
+
